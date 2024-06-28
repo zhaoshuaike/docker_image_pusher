@@ -1,4 +1,5 @@
 nginx
+#--platform=linux/amd64,linux/arm64 nginx:1.26.0
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
@@ -6,3 +7,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #rancher
 --platform=linux/amd64 rancher/rancher:v2.8.4
+#openjdk8
+--platform=linux/amd64,linux/arm64 adoptopenjdk/openjdk8:latest
