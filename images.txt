@@ -9,3 +9,6 @@
 #--platform=linux/amd64 rancher/rancher:v2.8.4
 #openjdk8
 --platform=linux/arm64 adoptopenjdk/openjdk8:latest
+
+--platform=linux/arm64 nginx:1.26.1
+--platform=linux/arm64 tomcat:9
