@@ -12,3 +12,5 @@
 
 --platform=linux/arm64 nginx:1.26.1
 --platform=linux/arm64 tomcat:9
+--platform=linux/arm64 alpine:latest
+--platform=linux/amd64 alpine:latest
