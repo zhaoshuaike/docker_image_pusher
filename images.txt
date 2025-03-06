@@ -17,3 +17,4 @@
 
 redis:6.2.17
 redis:7.2.7
+cesresearch/damengdb:latest
