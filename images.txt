@@ -8,13 +8,14 @@
 #rancher
 #--platform=linux/amd64 rancher/rancher:v2.8.4
 #openjdk8
---platform=linux/arm64 adoptopenjdk/openjdk8:latest
+#--platform=linux/arm64 adoptopenjdk/openjdk8:latest
 
---platform=linux/arm64 nginx:1.26.1
---platform=linux/arm64 tomcat:9
---platform=linux/arm64 alpine:latest
---platform=linux/amd64 alpine:latest
+--platform=linux/amd64 nginx:1.28.0
+--platform=linux/arm64 nginx:1.28.0
+#--platform=linux/arm64 tomcat:9
+#--platform=linux/arm64 alpine:latest
+#--platform=linux/amd64 alpine:latest
 
-redis:6.2.17
-redis:7.2.7
-onlyoffice/damengdb:8.1.2
+#redis:6.2.17
+#redis:7.2.7
+#onlyoffice/damengdb:8.1.2
