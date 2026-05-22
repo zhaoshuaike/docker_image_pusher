@@ -28,6 +28,6 @@
 #--platform=linux/arm64 redis:6.2.20
 
 
---platform=linux/amd64 eclipse-temurin:21-jdk
---platform=linux/arm64 eclipse-temurin:21-jdk
+--platform=linux/amd64 eclipse-temurin:21-jdk-bookworm
+--platform=linux/arm64 eclipse-temurin:21-jdk-bookworm
 
