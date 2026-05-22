@@ -28,6 +28,7 @@
 #--platform=linux/arm64 redis:6.2.20
 
 
---platform=linux/amd64 eclipse-temurin:21-jdk-jammy
---platform=linux/arm64 eclipse-temurin:21-jdk-jammy
+#--platform=linux/amd64 eclipse-temurin:21-jdk-jammy
+#--platform=linux/arm64 eclipse-temurin:21-jdk-jammy
 
+eclipse-temurin:21-jdk-noble
