@@ -24,4 +24,9 @@
 #onlyoffice/damengdb:8.1.2
 #linuxserver/grav:1.7.49
 
---platform=linux/arm64 redis:6.2.20
+
+#--platform=linux/arm64 redis:6.2.20
+
+
+--platform=linux/amd64 clipse-temurin:21-jdk
+--platform=linux/arm64 clipse-temurin:21-jdk
