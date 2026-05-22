@@ -29,4 +29,4 @@
 
 
 --platform=linux/amd64 clipse-temurin:21-jdk
---platform=linux/arm64 clipse-temurin:21-jdk
+#--platform=linux/arm64 clipse-temurin:21-jdk
