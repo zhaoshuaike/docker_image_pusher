@@ -35,5 +35,6 @@
 #--platform=linux/amd64 eclipse-temurin:8-jdk-jammy
 #--platform=linux/arm64 eclipse-temurin:8-jdk-jammy
 
-dameng/dameng:dm8
+#达梦8的20260414编译版本
+hbcn/dm8:x86_20260414
 
