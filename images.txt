@@ -48,6 +48,3 @@
 
 --platform=linux/amd64 eclipse-temurin:25.0.5.1_2-jdk-noble
 --platform=linux/arm64 eclipse-temurin:25.0.5.1_2-jdk-noble
-
-
-
