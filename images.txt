@@ -51,6 +51,7 @@
 
 #--platform=linux/amd64 nginx:1.30.8
 #--platform=linux/arm64 nginx:1.30.8
+
 --platform=linux/amd64 eclipse-temurin:21.0.13.1_2-jdk-noble
 --platform=linux/arm64 eclipse-temurin:21.0.13.1_2-jdk-noble
 
