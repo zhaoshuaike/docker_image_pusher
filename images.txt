@@ -54,4 +54,3 @@
 
 --platform=linux/amd64 eclipse-temurin:21.0.13.1_2-jdk-noble
 --platform=linux/arm64 eclipse-temurin:21.0.13.1_2-jdk-noble
-
